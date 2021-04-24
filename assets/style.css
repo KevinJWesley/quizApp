@@ -1,0 +1,21 @@
+body {
+  display: block;
+}
+
+.timer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+.box {
+  width: 100%;
+  max-width: 30%;
+
+  margin: 5px;
+}
